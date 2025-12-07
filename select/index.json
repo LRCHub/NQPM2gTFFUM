@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Fire and Fear",
+  "base_artist": "PENGUIN RESEARCH",
+  "createdAt": "2025-12-07T13:09:16.632709Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fire and Fear",
+      "artist": "PENGUIN RESEARCH",
+      "has_synced": true,
+      "path": "select/01_Fire_and_Fear_PENGUIN_RESEARCH.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fire and Fear - Instrumental",
+      "artist": "PENGUIN RESEARCH",
+      "has_synced": false,
+      "path": "select/02_Fire_and_Fear_-_Instrumental_PENGUIN_RESEARCH.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fire and Fear",
+      "artist": "PENGUIN RESEARCH",
+      "has_synced": true,
+      "path": "select/03_Fire_and_Fear_PENGUIN_RESEARCH.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fire and Fear",
+      "artist": "PENGUIN RESEARCH",
+      "has_synced": false,
+      "path": "select/pl_01_Fire_and_Fear_PENGUIN_RESEARCH.txt"
+    }
+  ]
+}
